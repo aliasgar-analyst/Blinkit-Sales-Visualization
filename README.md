@@ -49,7 +49,7 @@ The dashboard compares sales between Low Fat, Regular, and Non-Edible product ty
 
 ## Dashboard Preview
 
-![Blinkit Dashboard](file:///D:/Ali/Project%20Portfolio/BlinkIt/Tableau/Dashboard.png)
+![Blinkit Dashboard](https://github.com/aliasgar-analyst/Blinkit-Sales-Visualization/blob/48b711412242901fb5834d604181b487536bac9e/Dashboard.png)
 
 ---
 
